@@ -9,7 +9,8 @@ To run two instances of the cache try
 ```
 
 ## Todo list 
-- cache replacement algorithms such as Low inter reference Recency set (LIRS).i.e can improve hit rates and better adapability 
+- cache replacement algorithms such as Low inter reference Recency set (LIRS).i.e can improve hit rates and better adapability
+- Enable statefulSet on kubernetes for a distrubuted architecture using multi node failover 
 
 - Compression : implement data compression techniques in order to store more data in memory and reduce memory footprint and potentially reduce payload size and hit rate 
 
