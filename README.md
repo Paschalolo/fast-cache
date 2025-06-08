@@ -16,4 +16,5 @@ To run two instances of the cache try
 
 - Eviction Policy : Tuning the eviction policy(LRU) based on specific data characteristics 
 
-- connection pooling : optimize network commucnation by establishing network pooling between client and servers 
+- connection pooling : optimize network commucnation by establishing network pooling between client and servers
+- Implementing a leader follower consensus algorithm 
